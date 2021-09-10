@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pankaj Shinde
 - 👀 I’m interested in MEAN stack and building angular hybrid apps based on Electron ⚛️
-- 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on angular application development
+- 🌱 I’m currently pursuing Master's Information Systems (Big Data Analytics) from Georgia State University.
+- 💞️ I’m looking for internships and full time job.
 - 📫 How to reach me p10shinde@gmail.com
 
 <!---
